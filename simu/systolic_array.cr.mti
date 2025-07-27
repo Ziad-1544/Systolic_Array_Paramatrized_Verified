@@ -1,0 +1,10 @@
+{D:/Digital Design/STM/Systolic_Array/Ziad_+201097587855/simu/systolic_array.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Design/STM/Systolic_Array/Ziad_+201097587855/simu/systolic_array.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module systolic_array
+-- Compiling module PE
+-- Compiling module D_ff
+
+Top level modules:
+	systolic_array
+
+} {} {}}
